@@ -1,45 +1,57 @@
-# Hi, I'm Bhaskar Srivastava 👋  
-### AI/ML Enthusiast | Full-Stack Developer | Building AI-Driven Sports Apps  
+🚀 Bhaskar Srivastava
 
-🌟 Currently preparing for ML internships (May 2025)  
-📚 Learning: Machine Learning, FastAPI, React  
-🎯 Goal: Build production-ready AI/ML applications  
-🏏 Working on: AI-Powered Cricket Practice Coach (Analytics + FastAPI + AI Insights)  
+AI Builder | Full-Stack Developer | Shipping Real-World AI Products
 
-## 🚀 Tech Stack
-- **Languages:** Python, JavaScript  
-- **ML:** NumPy, Pandas, Scikit-Learn  
-- **Backend:** FastAPI, Node.js  
-- **Frontend:** React, Tailwind, Vite  
-- **Tools:** Git, Postman, Render, Railway  
+I build production-ready AI systems — not just models.
+Currently focused on turning real-world problems into scalable AI applications.
 
-## 🔥 Featured Projects
-### 🏏 AI-Powered Cricket Practice Coach (In Progress)
-Personal AI coach that analyzes ball-by-ball practice performance and gives insights.
-- Batting & bowling analytics  
-- Real-time charts and dashboards  
-- AI-generated suggestions  
-- FastAPI + React + Postgres  
+🎯 Targeting AI Internships (2025)
+⚡ Fast execution. Clean architecture. Research-backed thinking.
 
-### 📊 ML Mini-Projects (Regression, Classification)
-Linear/Multiple/Polynomial Regression  
-Titanic Classifier · Iris Classifier  
+🧠 What I’m Building
+📚 Student Exam Strategy – AI Academic Planner
 
-## 📫 Connect With Me
-📩 srivastavabhaskar690@gmail.com  
-🔗 https://www.linkedin.com/in/bhaskar-srivastava-ishu/
+AI system that generates personalized study roadmaps based on syllabus, deadlines, and performance trends.
 
-<!--
-**bhaskarsrivastava18/bhaskarsrivastava18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dynamic study plan generation
+Priority optimization logic
+Backend APIs with FastAPI
+React dashboard for visualization
+Scalable database design
+Problem it solves → Students waste time planning instead of executing.
 
-Here are some ideas to get you started:
+🧠 DocuMind AI – Intelligent Document Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-powered document understanding system.
+Context-aware Q&A
+Semantic search architecture
+AI summarization pipelines
+Backend-first scalable API design
+Problem it solves → Extracting actionable insights from large documents instantly.
+
+🏏 AI-Powered Cricket Practice Coach
+
+Analytics engine that converts ball-by-ball practice data into improvement insights.
+Performance tracking system
+Data visualization dashboards
+AI-generated suggestions
+FastAPI + React + PostgreSQL
+Problem it solves → Practice without feedback is slow improvement.
+
+🛠 Tech Stack
+
+Python • JavaScript
+FastAPI • React • Node.js
+PostgreSQL
+NumPy • Pandas • Scikit-Learn
+Git • Postman • Render • Railway
+
+💡 Builder Mindset
+
+I design systems end-to-end (Model → API → Frontend → Deployment)
+I focus on usability + scalability
+I prefer shipping MVPs fast and iterating
+
+📬 Open To
+
+AI internships • Startup collaborations • Early-stage product building
