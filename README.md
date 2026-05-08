@@ -1,57 +1,66 @@
-🚀 Bhaskar Srivastava
+# Hey, I'm Bhaskar 👋
 
-AI Builder | Full-Stack Developer | Shipping Real-World AI Products
+Backend engineer building distributed systems and agentic AI infrastructure.
 
-I build production-ready AI systems — not just models.
-Currently focused on turning real-world problems into scalable AI applications.
+I build the backend that makes things work at scale —
+then I add intelligence on top of it.
 
-🎯 Targeting AI Internships (2025)
-⚡ Fast execution. Clean architecture. Research-backed thinking.
+---
 
-🧠 What I’m Building
-📚 Student Exam Strategy – AI Academic Planner
+## 🔧 What I'm Building
 
-AI system that generates personalized study roadmaps based on syllabus, deadlines, and performance trends.
+### ⚙️ Job Orchestration Platform
+Distributed task queue with Redis priority queuing, Docker-sandboxed
+worker pools, heartbeat failure recovery, and Prometheus/Grafana
+observability. Load tested to 1,000+ jobs/min.
+`FastAPI` `Redis` `Docker` `PostgreSQL` `Prometheus`
 
-Dynamic study plan generation
-Priority optimization logic
-Backend APIs with FastAPI
-React dashboard for visualization
-Scalable database design
-Problem it solves → Students waste time planning instead of executing.
 
-🧠 DocuMind AI – Intelligent Document Assistant
+### 💻 Real-Time Collaborative Code IDE
+Multiple users write and run code simultaneously. WebSocket-based
+operational transformation, Docker execution sandbox (SIGKILL timeout),
+Redis Pub/Sub fan-out, Nginx sticky-session routing.
+`FastAPI` `WebSockets` `Docker` `Redis Pub/Sub` `React` `Monaco`
 
-AI-powered document understanding system.
-Context-aware Q&A
-Semantic search architecture
-AI summarization pipelines
-Backend-first scalable API design
-Problem it solves → Extracting actionable insights from large documents instantly.
 
-🏏 AI-Powered Cricket Practice Coach
+### 🤖 Autonomous Infrastructure Ops Agent
+5-agent LangGraph system that monitors Prometheus metrics, diagnoses
+root causes from Kafka logs, triggers circuit breakers and GitHub
+rollbacks, verifies resolution, and posts incident reports to Slack.
+Every decision traced in LangSmith.
+`LangGraph` `FastAPI` `Prometheus` `Kafka` `LangSmith` `pgvector`
 
-Analytics engine that converts ball-by-ball practice data into improvement insights.
-Performance tracking system
-Data visualization dashboards
-AI-generated suggestions
-FastAPI + React + PostgreSQL
-Problem it solves → Practice without feedback is slow improvement.
 
-🛠 Tech Stack
+---
 
-Python • JavaScript
-FastAPI • React • Node.js
-PostgreSQL
-NumPy • Pandas • Scikit-Learn
-Git • Postman • Render • Railway
+## 🛠 Stack
 
-💡 Builder Mindset
+**Backend:** FastAPI · Redis · PostgreSQL · pgvector · Kafka · Docker · WebSockets  
+**Agentic AI:** LangGraph · LangChain · LangSmith · OpenAI API · RAG  
+**NLP:** BERT · sentence-transformers · HuggingFace  
+**Infra:** Docker Compose · Prometheus · Grafana · Nginx · Railway  
+**Languages:** Python · JavaScript · Java  
 
-I design systems end-to-end (Model → API → Frontend → Deployment)
-I focus on usability + scalability
-I prefer shipping MVPs fast and iterating
+---
 
-📬 Open To
+## 📌 Experience
 
-AI internships • Startup collaborations • Early-stage product building
+**React Developer Intern** — Syntlane Technologies *(May–Jul 2026)*  
+Built HRMS modules (attendance, leave management, employee profiles).
+Integrated REST APIs via Axios. Improved app performance by ~25%.
+
+---
+
+## 📊 Currently
+
+- 🏗 Building 3 production backend systems through placement season
+- 📖 Completing NLP + GenAI course (done by June 2026)
+- 💡 Studying distributed systems deeply — Kafka, Postgres internals, Redis clustering
+- 🎯 Targeting backend + AI engineering roles · Open to 2027 opportunities
+
+---
+
+## 📬 Reach Me
+
+📧 bhaskarsrivastava335@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/bhaskar-srivastava-ishu)
